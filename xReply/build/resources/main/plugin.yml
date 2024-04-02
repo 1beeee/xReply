@@ -1,0 +1,10 @@
+name: xReply
+version: '1'
+main: org.beeee.xreply.XReply
+api-version: '1.18'
+description: Лучший плагин тупа!
+author: [1beeee]
+commands:
+  xreply:
+    description: Главная команда плагина
+    usage: /<command>

@@ -1,0 +1,10 @@
+version: 1.0
+
+use_sound: false
+sound: "ENTITY_PLAYER_LEVELUP"
+
+messages:
+  response_message: "&fВас упомянул &d%player_sender%&f, в сообщении &d%response_message%&f."
+  response_title: "&fВас упомянул &d%player_sender%"
+  reload_config: "&aКонфигурация перезагружена!"
+  no_permission: "&cУ вас нет доступа!"
